@@ -1,0 +1,2 @@
+D:\repos\NFAtoRegex\bin\publish\NFAtoRegex.exe
+D:\repos\NFAtoRegex\bin\publish\NFAtoRegex.pdb
