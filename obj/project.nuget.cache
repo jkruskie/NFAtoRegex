@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "MDqiSabc7s6cjfM1nqWby8tI9hnMMsj3D8tZwfs/K7NBr5uVkEcv0ejyz1/wjzXykShFgT68L8+ot1hA91HWLQ==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\NFAtoRegex\\NFAtoRegex.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JustinKruskie\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0-rc.1.23419.4\\microsoft.dotnet.ilcompiler.8.0.0-rc.1.23419.4.nupkg.sha512",
+    "C:\\Users\\JustinKruskie\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0-rc.2.23479.6\\microsoft.net.illink.tasks.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\JustinKruskie\\.nuget\\packages\\spectre.console\\0.47.0\\spectre.console.0.47.0.nupkg.sha512",
+    "C:\\Users\\JustinKruskie\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\JustinKruskie\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0-rc.1.23419.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0-rc.1.23419.4.nupkg.sha512"
+  ],
+  "logs": []
+}
